@@ -26,13 +26,9 @@
 
 ---
 
-<p align="center">
-  <sub>
-    Created by <a href="https://t.me/z_0_g">@Z_0_G</a> ·
-    <a href="https://github.com/infotok">GitHub</a>
-  </sub>
-</p>
+[![Private TikTok info](http://tiktokinfo.vercel.app/tiktokinfolang)](https://tiktokinfo.vercel.app/)
 
+---
 
 <p align="center">
   <a href="https://t.me/z_0_g" target="_blank">
@@ -43,4 +39,9 @@
   </a>
 </p>
 
-[![Private TikTok info](http://tiktokinfo.vercel.app/tiktokinfolang)](https://tiktokinfo.vercel.app/)
+<p align="center">
+  <sub>
+    Created by <a href="https://t.me/z_0_g">@Z_0_G</a> ·
+    <a href="https://github.com/infotok">GitHub</a>
+  </sub>
+</p>
