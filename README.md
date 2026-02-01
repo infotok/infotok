@@ -23,16 +23,6 @@
 
 ---
 
-## Features
-
-- **View TikTok Profile Info** - Access comprehensive profile data instantly
-- **Follower / Following Counts** - See detailed follower and following statistics
-- **User ID Lookup** - Search and identify users by their unique IDs
-- **Public Profile Data** - Retrieve all publicly available profile information
-- **Story Viewing** - View available stories where applicable
-
----
-
 ### Try the Live Demo
 
 Visit [TikTok info Live](https://tiktokinfo.vercel.app)
