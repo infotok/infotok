@@ -42,3 +42,7 @@
     <img src="https://img.icons8.com/nolan/120/github.png" width="40" alt="GitHub" />
   </a>
 </p>
+
+
+
+[![GitHub infoTok](https://github-readme-stats-fast.vercel.app/api/streak?username=infotok&theme=radical)](https://github.com/infotok/infotot)
