@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=540&lines=Welcome+to+tiktokinfo.vercel.app;No+Login+Required)](tiktokinfo.vercel.app)
 
 <img
-  src="https://raw.githubusercontent.com/infotok/infotok/master/assets/funny.gif"
-  width="260"
+  src="https://raw.githubusercontent.com/infotok/infotok/master/assets/9.gif"
+  width="230"
   alt="funny gif"
 />
 
