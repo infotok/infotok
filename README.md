@@ -45,4 +45,4 @@
 
 
 
-[![GitHub infoTok](https://github-readme-stats-fast.vercel.app/api/streak?username=infotok&theme=radical)](https://github.com/infotok/infotok)
+[![GitHub infoTok](https://github-readme-stats-fast.vercel.app/api/streak?username=infotok&theme=radical)](https://github.com/infotok/)
