@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="https://t.me/z_0_g" target="_blank">
-    <img src="https://img.icons8.com/nolan/96/telegram-app.png" width="45" alt="Telegram" />
-  </a>
+    <img src="https://img.icons8.com/nolan/96/telegram-app.png" width="45" alt="Telegram" /></a>
 
   <a href="https://github.com/infotok" target="_blank">
     <img src="https://img.icons8.com/nolan/120/github.png" width="45" alt="GitHub" />
