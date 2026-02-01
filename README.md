@@ -1,10 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=540&lines=Welcome+to+tiktokinfo.vercel.app;No+Login+Required)](tiktokinfo.vercel.app)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/infotok/infotok/master/assets/2.gif"
+    width="100"
+    alt="gif"
+  />
+</p>
 
-**[TikTok info](https://tiktokinfo.vercel.app)** <img
-  src="https://raw.githubusercontent.com/infotok/infotok/master/assets/1.gif"
-  width="30"
-  alt="funny gif"
-/> **[made By @Z_0_G](https://t.me/z_0_g)**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=540&lines=Welcome+to+tiktokinfo.vercel.app;No+Login+Required)](tiktokinfo.vercel.app)
+
+<p align="center">
+  <strong>
+    <a href="https://tiktokinfo.vercel.app">TikTok info</a>
+    <img
+      src="https://raw.githubusercontent.com/infotok/infotok/master/assets/1.gif"
+      width="20"
+      alt="gif"
+      style="vertical-align: middle;"
+    />
+    <a href="https://t.me/z_0_g">made By @Z_0_G</a>
+  </strong>
+</p>
 
 ---
 
