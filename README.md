@@ -43,6 +43,4 @@
   </a>
 </p>
 
-
-
-[![GitHub infoTok](https://github-readme-stats-fast.vercel.app/api/streak?username=infotok&theme=radical)](https://github.com/infotok/)
+[![Private TikTok info](http://tiktokinfo.vercel.app/tiktokinfolang)](https://tiktokinfo.vercel.app/)
