@@ -3,23 +3,23 @@
     <img
       src="https://raw.githubusercontent.com/infotok/infotok/master/assets/2.gif"
       width="140"
-      alt="TikTok Info Preview"
+      alt="TikTok p"
     />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=680&lines=TikTok+Info;No+Login+Required"
-    alt="Welcome to TikTok Info"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&center=true&vCenter=true&width=680&lines=TikTok+Info;No+Login+Required"
+    alt="TikTok Info"
   />
 </p>
 
 <p align="center">
   <a href="https://tiktokinfo.vercel.app" target="_blank">
     <img
-      src="https://img.shields.io/badge/🚀%20Open%20Live%20Demo-TikTok%20Info-ff0050?style=for-the-badge&logo=tiktok&logoColor=white"
-      alt="Open Live Demo"
+      src="https://img.shields.io/badge/Search%20TikTok%20Username-TikTok%20Info-ff0050?style=for-the-badge&logo=tiktok&logoColor=white"
+      alt="Search TikTok Username"
     />
   </a>
 </p>
