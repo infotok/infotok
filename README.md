@@ -1,16 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=540&lines=Welcome+to+tiktokinfo.vercel.app;No+Login+Required)](tiktokinfo.vercel.app)
 
-<a href="https://hits.seeyoufarm.com">
-  <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finfotok%2Ftiktokinfo&count_bg=%23C592CB&title_bg=%23171717&title=Profile+views&edge_flat=false"
-    alt="Profile views"
-  />
-</a>
-
 <img
-  src="https://krikey-ai.ghost.io/content/images/2025/06/GIF-Maker-Halloween-GIF-Transparent.GIF"
-  width="270"
-  alt="animated gif"
+  src="https://raw.githubusercontent.com/infotok/infotok/master/assets/funny.gif"
+  width="260"
+  alt="funny gif"
 />
 
 
