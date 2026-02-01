@@ -26,7 +26,7 @@
 
 ---
 
-[![Private TikTok info](http://tiktokinfo.vercel.app/tiktokinfolang)](https://tiktokinfo.vercel.app/)
+[![TiTok info](http://tiktokinfo.vercel.app/tiktokinfolang)](https://tiktokinfo.vercel.app/)
 
 ---
 
