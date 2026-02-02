@@ -9,10 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://tiktokinfo.vercel.app" target="_blank">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=33&pause=0&center=true&vCenter=true&width=680&lines=Welcome+to+TikTok+Info;No+Login+Required"
     alt="TikTok Info"
   />
+  </a>
 </p>
 
 <p align="center">
