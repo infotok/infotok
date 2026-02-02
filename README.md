@@ -3,14 +3,14 @@
     <img
       src="https://raw.githubusercontent.com/infotok/infotok/master/assets/2.gif"
       width="140"
-      alt="TikTok p"
+      alt="TikTok info"
     />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&center=true&vCenter=true&width=680&lines=TikTok+Info;No+Login+Required"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&center=true&vCenter=true&width=680&lines=Welcome+to+TikTok+Info;No+Login+Required"
     alt="TikTok Info"
   />
 </p>
